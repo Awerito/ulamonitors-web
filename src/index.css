@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Neobrutalism tokens: pastel pink page background and hard offset shadows. */
+@theme {
+  --color-blush: #fdf2f8;
+  --shadow-brutal: 4px 4px 0 0 #000;
+  --shadow-brutal-sm: 2px 2px 0 0 #000;
+  --shadow-brutal-lg: 8px 8px 0 0 #000;
+}
